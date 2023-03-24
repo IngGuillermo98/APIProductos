@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_Productos_GML.props" />
+</Project>
